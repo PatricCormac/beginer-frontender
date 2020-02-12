@@ -1,2 +1,2 @@
 Work created on htmlacademy courses
-https://patriccormac.github.io/firstSite/
+https://patriccormac.github.io/beginer-frontender/
